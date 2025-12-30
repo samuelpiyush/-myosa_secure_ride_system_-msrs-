@@ -31,8 +31,19 @@ This approach improves rider safety, prevents helmet misuse, and adds anti-theft
 
 <p align="center">
   <img src="/system-architecture.jpg" width="800"><br/>
-  <i>Overall system architecture of the MYOSA Secure Ride System</i>
+  <i>Overall architecture of the MYOSA Secure Ride System</i>
 </p>
+
+<p align="center">
+  <img src="/helmet-module.jpg" width="800"><br/>
+  <i>Helmet unit using MYOSA Motherboard</i>
+</p>
+
+<p align="center">
+  <img src="/vehicle-controller.jpg" width="800"><br/>
+  <i>Vehicle Unit using External ESP32</i>
+</p>
+
 
 ### Videos
 
