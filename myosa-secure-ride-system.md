@@ -34,8 +34,14 @@ This approach improves rider safety, prevents helmet misuse, and adds anti-theft
   <i>Overall architecture of the MYOSA Secure Ride System</i>
 </p>
 
+<p align="left">
+  <img src="/helmet-module1.jpg" width="800"><br/>
+</p>
+<p align="right">
+  <img src="/helmet-module2.jpg" width="800"><br/>
+</p>
 <p align="center">
-  <img src="/helmet-module.jpg" width="800"><br/>
+  <img src="/helmet-module3.jpg" width="800"><br/>
   <i>Helmet unit using MYOSA Motherboard</i>
 </p>
 
