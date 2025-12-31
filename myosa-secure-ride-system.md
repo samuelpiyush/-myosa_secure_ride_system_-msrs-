@@ -64,14 +64,14 @@ This approach improves rider safety, prevents helmet misuse, and adds afall/cras
 </video>
 <i>Demonstration of The Guardian Link</i> 
 
-If video not playing. 👉 [View Demonstration Video](./myosa-demonstration.mp4) 
+If video not playing above. 👉 [View Demonstration Video](./myosa-demonstration.mp4) 
 
 <video controls width="100%">
   <source src="/myosa-presentation.mp4" type="video/mp4">
 </video>
 <i>Presentation on The Guardian Link</i> 
 
-If video not playing. 👉 [View Presentation Video](./myosa-presentation.mp4) 
+If video not playing above. 👉 [View Presentation Video](./myosa-presentation.mp4) 
 
 ## Code
 ### Helmet Unit
