@@ -46,6 +46,12 @@ This approach improves rider safety, prevents helmet misuse, and adds afall/cras
   <img src="/vehicle-controller.jpg" width="800"><br/>
   <i>Vehicle Unit using External ESP32</i>
 </p>
+<p align="center">
+  <img src="/circuit-diagram.jpg" width="800"><br/>
+  <i>Circuit Diagram Representation of The Guadrdian Link</i>
+</p>
+
+
 
 
 ### Videos
