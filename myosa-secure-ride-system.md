@@ -48,7 +48,7 @@ This approach improves rider safety, prevents helmet misuse, and adds afall/cras
 </p>
 <p align="center">
   <img src="/circuit-diagram.jpg" width="800"><br/>
-  <i>Circuit Diagram Representation of The Guadrdian Link</i>
+  <i>Circuit Diagram Representation of The Guardian Link</i>
 </p>
 
 
