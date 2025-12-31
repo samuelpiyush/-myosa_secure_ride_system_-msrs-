@@ -28,39 +28,47 @@ The architecture uses a dual-microcontroller, fully wireless design. A MYOSA mot
 
 This approach improves rider safety, prevents helmet misuse, and adds afall/crash protection through motion detection and wireless alerts.
 
+## Demo / Examples
+
 ### Images
 
  
 <p align="center">
-  <img src="Images/system-architecture.jpg" width="800"><br/>
+  <img src="./system-architecture.jpg" width="800"><br/>
   <i>Overall architecture of the MYOSA Secure Ride System</i>
 </p>
 
 
 <p align="center">
-  <img src="Images/helmet-module1.jpg" width="400"><br/>
-  <img src="Images/helmet-module2.jpg" width="400"><br/>
-  <img src="Images/helmet-module3.jpg" width="400"><br/>
+  <img src="./helmet-module1.jpg" width="400"><br/>
+  <img src="./helmet-module2.jpg" width="400"><br/>
+  <img src="./helmet-module3.jpg" width="400"><br/>
   <i>Helmet unit using MYOSA Motherboard</i>  
 </p>
 
 <p align="center">
-  <img src="Images/vehicle-controller.jpg" width="800"><br/>
+  <img src="./vehicle-controller.jpg" width="800"><br/>
   <i>Vehicle Unit using External ESP32</i>
 </p>
 <p align="center">
-  <img src="Images/circuit-diagram.jpg" width="800"><br/>
+  <img src="./circuit-diagram.jpg" width="800"><br/>
   <i>Circuit Diagram Representation of The Guardian Link</i>
 </p>
 
 
 
-
 ### Videos
 
-Click below to view the full Demonstration video. 👉 [View Demonstration Video](Videos/Demonstration.md)
+<video controls width="100%">
+  <source src="/myosa-demonstration.mp4" type="video/mp4"> 
+</video>
+<i>Demonstration of The Guardian Link</i> 
 
-Click below to view the full Presentation video. 👉 [View Presentation Video](Videos/Presentation.md)
+
+<video controls width="100%">
+  <source src="/myosa-presentation.mp4" type="video/mp4">
+</video>
+<i>Presentation on The Guardian Link</i>
 
 
 ## Code
